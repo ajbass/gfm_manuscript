@@ -2,7 +2,7 @@
 
 This repository contains code to reproduce the results in
 
-> Bass AJ, Park J, Mukherjee S, Whittaker JC, Wallace C. Genomic foundation models do not yet boost common variant discovery. *Submitted*; 2026.
+> Bass AJ, Park J, Mukherjee S, Whittaker JC, Wallace C. Genomic foundation models do not yet boost common variant discovery beyond standard functional annotations. *Submitted* [[bioRxiv](https://www.biorxiv.org/content/10.64898/2026.10.13.758880v1)]; 2026.
 
 Overview of directories:
 
